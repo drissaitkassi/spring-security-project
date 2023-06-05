@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="51c5b8b6-5d84-4299-8df6-68bf12f47508" name="Changes" comment="" />
+    <list default="true" id="51c5b8b6-5d84-4299-8df6-68bf12f47508" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/authdemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/src/main/java/com/driss/authdemo/AuthdemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/src/main/java/com/driss/authdemo/sec/entities/AppRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/src/main/java/com/driss/authdemo/sec/entities/AppUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/src/main/java/com/driss/authdemo/sec/repositories/AppRoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/src/main/java/com/driss/authdemo/sec/repositories/AppUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/src/main/java/com/driss/authdemo/sec/services/AppRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/src/main/java/com/driss/authdemo/sec/services/AppUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/src/main/java/com/driss/authdemo/sec/web/AppRoleRestControllerAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/src/main/java/com/driss/authdemo/sec/web/AppUserRestControllerAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authdemo/src/test/java/com/driss/authdemo/AuthdemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/authdemo" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QnADcKXJ7uxufoc6HjJjpDt7Qk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -15,11 +54,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "19",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="AuthdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="authdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.driss.authdemo.AuthdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,8 +80,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685978867800</updated>
+      <workItem from="1685978870731" duration="1881000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

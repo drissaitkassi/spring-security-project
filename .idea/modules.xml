@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/authdemo/authdemo.iml" filepath="$PROJECT_DIR$/authdemo/authdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-project.iml" filepath="$PROJECT_DIR$/spring-security-project.iml" />
     </modules>
   </component>
